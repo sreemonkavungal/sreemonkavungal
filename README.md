@@ -7,9 +7,13 @@
 
 
 
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB**
+- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, HTML5, CSS3**
+
+- 🎓 [B.tech CSE graduate.](B.tech CSE graduate.)
 
 - 📫 How to reach me **sreemonkavungal@gmail.com**
+
+- 👨‍💻 [Open to connecting with fellow learners and mentors.](Open to connecting with fellow learners and mentors.)
 
 </p>
 
