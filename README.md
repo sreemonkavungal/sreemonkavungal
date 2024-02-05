@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm SREEMON K S</h1>
+<h1 align="center">Hi 👋, I'm SREEMON.K.S</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
-
-
 
 - 🎓 B.tech CSE graduate.
   
