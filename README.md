@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm SREEMON.K.S</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
- <img align="right" src="https://github.com/sreemonkavungal/sreemonkavungal/assets/90373393/5a9ec57d-cf54-44fe-81eb-e300dc678f58" style="width: 300px; height: auto;" alt="Coding Gif">
-
+ <img align="right" src="https://github.com/sreemonkavungal/sreemonkavungal/assets/90373393/22fe9cb8-7ae9-46b7-9b08-33aeb0038214" style="width: 300px; height: auto;" alt="Coding Gif">
 
 
 - 🎓 B.tech CSE graduate.
