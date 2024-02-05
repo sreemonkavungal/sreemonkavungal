@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://github.com/sreemonkavungal/sreemonkavungal/assets/90373393/e1c2500b-42af-44f9-b1c3-c3d8a750a00e" alt="MERN Cover"/>
-</p>
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm SREEMON K S</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
