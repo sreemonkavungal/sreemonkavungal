@@ -1,6 +1,6 @@
-
+<p align="center">
 ![MERN Cover](https://github.com/sreemonkavungal/sreemonkavungal/assets/90373393/4b292108-30f0-4652-b2e7-7524703b9807)
-
+</p>
 
 <h1 align="center">Hi 👋, I'm SREEMON K S</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
