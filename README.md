@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/sreemonkavungal/sreemonkavungal/assets/90373393/4b292108-30f0-4652-b2e7-7524703b9807" alt="MERN Cover"/>
+  <img src="https://github.com/sreemonkavungal/sreemonkavungal/assets/90373393/45a59028-77f0-481f-b87f-1c937d652467" alt="MERN Cover"/>
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm SREEMON K S</h1>
