@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/sreemonkavungal/sreemonkavungal/assets/90373393/474af686-ba2c-4149-8197-89192933d1dc" alt="MERN Cover"/>
+  <img src="https://github.com/sreemonkavungal/sreemonkavungal/assets/90373393/0e4cc029-99ed-4a50-a017-5f91008f1a30" alt="MERN Cover"/>
 </p>
+
 
 
 
