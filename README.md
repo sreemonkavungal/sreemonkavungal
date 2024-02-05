@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="right">
-  <img src="https://github.com/sreemonkavungal/sreemonkavungal/assets/90373393/421f0608-9e5c-42f4-9e51-ac0bd7a7a4be" alt="mern-stack-developer"/>
+  <img src="https://github.com/sreemonkavungal/sreemonkavungal/assets/90373393/421f0608-9e5c-42f4-9e51-ac0bd7a7a4be" alt="mern-stack-developer" width="300" height="200 />
 </p>
 
 
