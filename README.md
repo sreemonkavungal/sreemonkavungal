@@ -7,7 +7,7 @@
 
 
 
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, HTML5, CSS3**
+- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me **sreemonkavungal@gmail.com**
 
